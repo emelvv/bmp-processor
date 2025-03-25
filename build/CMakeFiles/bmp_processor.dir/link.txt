@@ -1,0 +1,1 @@
+/usr/bin/clang++  -Wall -Wextra -pedantic -g -Xlinker --dependency-file=CMakeFiles/bmp_processor.dir/link.d CMakeFiles/bmp_processor.dir/src/io/bmp.cpp.o CMakeFiles/bmp_processor.dir/src/main.cpp.o CMakeFiles/bmp_processor.dir/src/utility/args.cpp.o CMakeFiles/bmp_processor.dir/src/utility/image.cpp.o -o bmp_processor

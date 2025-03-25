@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250323-1936-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.31.6"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="emelvv-NBR-WAX9"
+	OSRelease="6.8.0-52-generic"
+	OSVersion="#53-Ubuntu SMP PREEMPT_DYNAMIC Sat Jan 11 00:06:25 UTC 2025"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ModelName="Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz"
+	ProcessorCacheSize="4096"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="7683"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2200.01"
+	>
+	<Testing>
+		<StartDateTime>Mar 23 22:36 MSK</StartDateTime>
+		<StartTestTime>1742758611</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 23 22:36 MSK</EndDateTime>
+		<EndTestTime>1742758611</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

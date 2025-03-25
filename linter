@@ -1,0 +1,1 @@
+find . -type f -not -path "./build/*" \( -name "*.cpp" -o -name "*.h" \) | xargs clang-tidy -p build/

@@ -1,0 +1,3 @@
+/home/emelvv/prog/bmp_processor/build/CMakeFiles/bmp_processor.dir
+/home/emelvv/prog/bmp_processor/build/CMakeFiles/edit_cache.dir
+/home/emelvv/prog/bmp_processor/build/CMakeFiles/rebuild_cache.dir
