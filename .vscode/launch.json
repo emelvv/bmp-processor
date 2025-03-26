@@ -20,7 +20,6 @@
                 }
             ],
             "preLaunchTask": "CMake: build",
-            "miDebuggerPath": "/usr/bin/gdb",
             "logging": {
                 "trace": true,
                 "traceResponse": true
